@@ -4,7 +4,7 @@
 ## Begin of user-editable part ##
 #################################
 
-POOL=stratum+tcp://asia.sparkpool.com:3333
+POOL=stratum+ssl://eu1.ethermine.org:5555
 WALLET=0x70278496f0eaa3810d9dbdd7f388425e029013db.Rig002
 
 #################################
